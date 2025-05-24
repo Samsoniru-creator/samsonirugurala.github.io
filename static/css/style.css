@@ -1,0 +1,7 @@
+.card:hover {
+    transform: translateY(-5px);
+    transition: 0.3s;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
